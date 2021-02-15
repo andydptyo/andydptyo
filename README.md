@@ -1,4 +1,7 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andydptyo&theme=merko" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydptyo&theme=merko" />
+
 
 <!--
 **andydptyo/andydptyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
