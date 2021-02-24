@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andydptyo&show_icons=true&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andydptyo&show_icons=true&theme=chartreuse-dark&count_private=true" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydptyo&theme=chartreuse-dark&layout=compact" />
 
