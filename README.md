@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydptyo&theme=chartreuse-dark&layout=compact" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=andydptyo.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=andydptyo.visitor-badge)
 
 
 <!--
