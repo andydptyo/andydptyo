@@ -1,6 +1,6 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andydptyo&show_icons=true&theme=chartreuse-dark&count_private=true" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andydptyo&theme=chartreuse-dark&layout=compact" />
+
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=andydptyo&show_icons=true&theme=chartreuse-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=andydptyo.visitor-badge)
 
